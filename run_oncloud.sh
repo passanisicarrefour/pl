@@ -8,7 +8,7 @@ fi
 
 PROJECT=$1
 BUCKET=$2
-MAIN=com.google.cloud.teleport.templates$3
+MAIN=com.google.cloud.teleport.templates.$3
 
 echo "project=$PROJECT  bucket=$BUCKET  main=$MAIN"
 
